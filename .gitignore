@@ -1,0 +1,29 @@
+# Maven target directory
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# NetBeans project files
+/nbproject/
+
+# Compiled source
+*.class
+
+# Log files
+*.log
+
+# Maven build files
+log/
+dependency-reduced-pom.xml
+buildNumber.properties
+release.properties
+
+# Third-party libraries
+lib/
